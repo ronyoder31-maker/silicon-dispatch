@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silicon Dispatch</title>
+    <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
+    <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
+    <lastBuildDate>Sun, 08 Nov 2026 17:26:27 +0100</lastBuildDate>
+    <itunes:author>Claire &amp; Marcus</itunes:author>
+    <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
+    <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Casper</itunes:name>
+      <itunes:email>podcast@silicondispatch.local</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    <image>
+      <url>https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg</url>
+      <title>Silicon Dispatch</title>
+      <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
+    </image>
+    <item>
+      <title>2026-11-08: Apple&#x27;s AI Pivot, Agentic Siri, and Local LLM Breakthroughs</title>
+      <itunes:title>2026-11-08: Apple&#x27;s AI Pivot, Agentic Siri, and Local LLM Breakthroughs</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down Apple&#x27;s internal software shake-up, the push for agentic AI, and how to run massive models on your M5 Pro Mac mini.</itunes:subtitle>
+      <itunes:summary>We break down Apple&#x27;s internal software shake-up, the push for agentic AI, and how to run massive models on your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Apple CEO John Ternus pushes for faster, more ambitious AI strategy: https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/
+- Apple exploring &#x27;Agentic&#x27; Siri for 2027: https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/
+- Backglow: https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/
+- DeepSeek-V4-Pro (284B): https://github.com/synchopate/llama-modchip
+- Apple&#x27;s M5 MacBook Air sees $200 discount: https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale
+- agent-browser: https://github.com/vercel-labs/agent-browser
+- Chatbots might be coming to Apple’s HomeView: https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview
+- Physicists listened to electrical noise to crack a superconductor mystery: https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/
+- Apple Taking New Approach to Developing iOS 28 and macOS 28: https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/
+- Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More: https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/
+- Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me: https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/
+- After the midterms, things are looking rocky for Elon Musk and data centers: https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up
+- OpenAI raises $11B at a $1.25T valuation: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+- Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!): https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/
+- llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp: https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/
+- mlx-community/d1a-e4b-it-qat-4bit: https://huggingface.co/mlx-community/d1a-e4b-it-qat-4bit
+- mlx-community/FlowUpscaler-bf16: https://huggingface.co/mlx-community/FlowUpscaler-bf16
+- sherlock-project/sherlock: https://github.com/sherlock-project/sherlock
+- dsx-ai-factory/nvke: https://github.com/dsx-ai-factory/nvke</itunes:summary>
+      <description>We break down Apple&#x27;s internal software shake-up, the push for agentic AI, and how to run massive models on your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Apple CEO John Ternus pushes for faster, more ambitious AI strategy: https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/
+- Apple exploring &#x27;Agentic&#x27; Siri for 2027: https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/
+- Backglow: https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/
+- DeepSeek-V4-Pro (284B): https://github.com/synchopate/llama-modchip
+- Apple&#x27;s M5 MacBook Air sees $200 discount: https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale
+- agent-browser: https://github.com/vercel-labs/agent-browser
+- Chatbots might be coming to Apple’s HomeView: https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview
+- Physicists listened to electrical noise to crack a superconductor mystery: https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/
+- Apple Taking New Approach to Developing iOS 28 and macOS 28: https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/
+- Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More: https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/
+- Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me: https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/
+- After the midterms, things are looking rocky for Elon Musk and data centers: https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+- Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy: https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up
+- OpenAI raises $11B at a $1.25T valuation: https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/
+- Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!): https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/
+- llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp: https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/
+- mlx-community/d1a-e4b-it-qat-4bit: https://huggingface.co/mlx-community/d1a-e4b-it-qat-4bit
+- mlx-community/FlowUpscaler-bf16: https://huggingface.co/mlx-community/FlowUpscaler-bf16
+- sherlock-project/sherlock: https://github.com/sherlock-project/sherlock
+- dsx-ai-factory/nvke: https://github.com/dsx-ai-factory/nvke</description>
+      <content:encoded><![CDATA[<p>We break down Apple&#x27;s internal software shake-up, the push for agentic AI, and how to run massive models on your M5 Pro Mac mini.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/">Apple CEO John Ternus pushes for faster, more ambitious AI strategy</a> (9to5Mac / Bloomberg)</li>
+<li><a href="https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/">Apple exploring &#x27;Agentic&#x27; Siri for 2027</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/">Backglow</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://github.com/synchopate/llama-modchip">DeepSeek-V4-Pro (284B)</a> (Local Models)</li>
+<li><a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale">Apple&#x27;s M5 MacBook Air sees $200 discount</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/vercel-labs/agent-browser">agent-browser</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview">Chatbots might be coming to Apple’s HomeView</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/">Physicists listened to electrical noise to crack a superconductor mystery</a> (Ars Technica)</li>
+<li><a href="https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/">Apple Taking New Approach to Developing iOS 28 and macOS 28</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/07/early-apple-black-friday-deals/">Early Apple Black Friday Deals on Apple Watch, MacBook Air, and More</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/">Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/">After the midterms, things are looking rocky for Elon Musk and data centers</a> (TechCrunch)</li>
+<li><a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy</a> (Hacker News)</li>
+<li><a href="https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/">OpenAI raises $11B at a $1.25T valuation</a> (Hacker News)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/">Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/">llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/d1a-e4b-it-qat-4bit">mlx-community/d1a-e4b-it-qat-4bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/FlowUpscaler-bf16">mlx-community/FlowUpscaler-bf16</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/sherlock-project/sherlock">sherlock-project/sherlock</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/dsx-ai-factory/nvke">dsx-ai-factory/nvke</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-08/silicon-dispatch-2026-11-08.m4a" length="18790657" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1144</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
