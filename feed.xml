@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 17:26:27 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:01:51 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,87 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-09: Nvidia&#x27;s Leadership Crisis &amp; The Future of Agentic Siri</title>
+      <itunes:title>2026-11-09: Nvidia&#x27;s Leadership Crisis &amp; The Future of Agentic Siri</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down the investigation into Jensen Huang, Apple&#x27;s push for agentic AI, and the latest local model tools for your M5 Pro Mac mini.</itunes:subtitle>
+      <itunes:summary>We break down the investigation into Jensen Huang, Apple&#x27;s push for agentic AI, and the latest local model tools for your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia Board Investigates CEO Jensen Huang Over Relationship: https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+- Apple Accelerating Agentic Siri Roadmap: https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/
+- KetchUp: https://ketchup3d.github.io/app/
+- Qwen3.8-27B: https://huggingface.co/Qwen/Qwen3.8-27B
+- macOS 27.3 Privacy Overhaul: https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/
+- billion-context: https://github.com/ranxianglei/billion-context
+- Here’s the full text of Jensen Huang’s memo to Nvidia: https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
+- Soul Glo’s Diaspora Problems is a hardcore record like no other: https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review
+- Apps to distract you from the endless cycle of doomscrolling: https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/
+- Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy: https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+- Unlocking any car from X brand in most of the world: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+- Herb Sutter: When a language&#x27;s creator and its owners strongly disagree [pdf]: https://isocpp.org/files/papers/P4454R0.pdf
+- &quot;Does censorship exist in [country]?&quot;, according to various LLMs: https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/
+- Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.: https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/
+- mlx-community/Kestrel-4B-Coder-8bit: https://huggingface.co/mlx-community/Kestrel-4B-Coder-8bit
+- mlx-community/Kestrel-4B-Coder-6bit: https://huggingface.co/mlx-community/Kestrel-4B-Coder-6bit
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts</itunes:summary>
+      <description>We break down the investigation into Jensen Huang, Apple&#x27;s push for agentic AI, and the latest local model tools for your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia Board Investigates CEO Jensen Huang Over Relationship: https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+- Apple Accelerating Agentic Siri Roadmap: https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/
+- KetchUp: https://ketchup3d.github.io/app/
+- Qwen3.8-27B: https://huggingface.co/Qwen/Qwen3.8-27B
+- macOS 27.3 Privacy Overhaul: https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/
+- billion-context: https://github.com/ranxianglei/billion-context
+- Here’s the full text of Jensen Huang’s memo to Nvidia: https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia
+- Soul Glo’s Diaspora Problems is a hardcore record like no other: https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review
+- Apps to distract you from the endless cycle of doomscrolling: https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/
+- Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy: https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+- Unlocking any car from X brand in most of the world: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/
+- Herb Sutter: When a language&#x27;s creator and its owners strongly disagree [pdf]: https://isocpp.org/files/papers/P4454R0.pdf
+- &quot;Does censorship exist in [country]?&quot;, according to various LLMs: https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/
+- Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.: https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/
+- mlx-community/Kestrel-4B-Coder-8bit: https://huggingface.co/mlx-community/Kestrel-4B-Coder-8bit
+- mlx-community/Kestrel-4B-Coder-6bit: https://huggingface.co/mlx-community/Kestrel-4B-Coder-6bit
+- milind-soni/OpenMausBot: https://github.com/milind-soni/OpenMausBot
+- anthropics/claude-quickstarts: https://github.com/anthropics/claude-quickstarts</description>
+      <content:encoded><![CDATA[<p>We break down the investigation into Jensen Huang, Apple&#x27;s push for agentic AI, and the latest local model tools for your M5 Pro Mac mini.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy">Nvidia Board Investigates CEO Jensen Huang Over Relationship</a> (The Verge)</li>
+<li><a href="https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/">Apple Accelerating Agentic Siri Roadmap</a> (MacRumors)</li>
+<li><a href="https://ketchup3d.github.io/app/">KetchUp</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen3.8-27B</a> (Local Models)</li>
+<li><a href="https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/">macOS 27.3 Privacy Overhaul</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/ranxianglei/billion-context">billion-context</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia">Here’s the full text of Jensen Huang’s memo to Nvidia</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review">Soul Glo’s Diaspora Problems is a hardcore record like no other</a> (The Verge)</li>
+<li><a href="https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/">Apps to distract you from the endless cycle of doomscrolling</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/">Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy</a> (TechCrunch)</li>
+<li><a href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/">Unlocking any car from X brand in most of the world</a> (Hacker News)</li>
+<li><a href="https://isocpp.org/files/papers/P4454R0.pdf">Herb Sutter: When a language&#x27;s creator and its owners strongly disagree [pdf]</a> (Hacker News)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/">&quot;Does censorship exist in [country]?&quot;, according to various LLMs</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/">Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/Kestrel-4B-Coder-8bit">mlx-community/Kestrel-4B-Coder-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/Kestrel-4B-Coder-6bit">mlx-community/Kestrel-4B-Coder-6bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/milind-soni/OpenMausBot">milind-soni/OpenMausBot</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/anthropics/claude-quickstarts">anthropics/claude-quickstarts</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-09/silicon-dispatch-2026-11-09.m4a" length="19079006" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1162</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-08: Apple&#x27;s AI Pivot, Agentic Siri, and Local LLM Breakthroughs</title>
       <itunes:title>2026-11-08: Apple&#x27;s AI Pivot, Agentic Siri, and Local LLM Breakthroughs</itunes:title>
