@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 02:01:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:01:37 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,96 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-12: Nvidia Chaos, Gemini on CarPlay, and Local AI Power-Ups</title>
+      <itunes:title>2026-11-12: Nvidia Chaos, Gemini on CarPlay, and Local AI Power-Ups</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>Nvidia&#x27;s board weighs Jensen Huang&#x27;s future amid scandal, while Google brings Gemini to your car and new local models hit your M5 Pro.</itunes:subtitle>
+      <itunes:summary>Nvidia&#x27;s board weighs Jensen Huang&#x27;s future amid scandal, while Google brings Gemini to your car and new local models hit your M5 Pro.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia board reportedly preparing to oust CEO Jensen Huang: https://www.theverge.com/tech/1031652/jensen-huang-rumor
+- Google Gemini app rolls out to Apple CarPlay: https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/
+- Home Assistant Connect Aux-2: https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on
+- Qwen3.8-27B (MTP-mxfp4): https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp4
+- ChatGPT Finances expands to Mac app: https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/
+- Apple shuttering 28-year-old community forum: https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/
+- shadcn/improve: https://github.com/shadcn/improve
+- CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia: https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
+- T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says: https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/
+- iPhone Duo one week later: The future, or not for me?: https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/
+- Binance warns iPhone crypto holders of security flaw researchers say remains unpatched: https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/
+- Apple on Fatal Vehicle Crash Near Apple Park: &#x27;Our Hearts Are Broken&#x27;: https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/
+- Apple Invites App Updated With Two New Features: https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/
+- The unfolding Jensen Huang scandal: a timeline: https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+- Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang: https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+- NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs: https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/
+- Nvidia is Preparing to Oust Nvidia CEO Jensen Huang: https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/
+- mlx-community/stable-audio-3-medium: https://huggingface.co/mlx-community/stable-audio-3-medium
+- mlx-community/sam-audio-base-swift-fp16: https://huggingface.co/mlx-community/sam-audio-base-swift-fp16
+- ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
+- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src</itunes:summary>
+      <description>Nvidia&#x27;s board weighs Jensen Huang&#x27;s future amid scandal, while Google brings Gemini to your car and new local models hit your M5 Pro.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia board reportedly preparing to oust CEO Jensen Huang: https://www.theverge.com/tech/1031652/jensen-huang-rumor
+- Google Gemini app rolls out to Apple CarPlay: https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/
+- Home Assistant Connect Aux-2: https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on
+- Qwen3.8-27B (MTP-mxfp4): https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp4
+- ChatGPT Finances expands to Mac app: https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/
+- Apple shuttering 28-year-old community forum: https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/
+- shadcn/improve: https://github.com/shadcn/improve
+- CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia: https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/
+- T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says: https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/
+- iPhone Duo one week later: The future, or not for me?: https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/
+- Binance warns iPhone crypto holders of security flaw researchers say remains unpatched: https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/
+- Apple on Fatal Vehicle Crash Near Apple Park: &#x27;Our Hearts Are Broken&#x27;: https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/
+- Apple Invites App Updated With Two New Features: https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/
+- The unfolding Jensen Huang scandal: a timeline: https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+- Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang: https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/
+- NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs: https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/
+- Nvidia is Preparing to Oust Nvidia CEO Jensen Huang: https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/
+- mlx-community/stable-audio-3-medium: https://huggingface.co/mlx-community/stable-audio-3-medium
+- mlx-community/sam-audio-base-swift-fp16: https://huggingface.co/mlx-community/sam-audio-base-swift-fp16
+- ZhuLinsen/daily_stock_analysis: https://github.com/ZhuLinsen/daily_stock_analysis
+- GoogleChrome/modern-web-guidance-src: https://github.com/GoogleChrome/modern-web-guidance-src</description>
+      <content:encoded><![CDATA[<p>Nvidia&#x27;s board weighs Jensen Huang&#x27;s future amid scandal, while Google brings Gemini to your car and new local models hit your M5 Pro.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/tech/1031652/jensen-huang-rumor">Nvidia board reportedly preparing to oust CEO Jensen Huang</a> (The Verge / Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/">Google Gemini app rolls out to Apple CarPlay</a> (9to5Mac)</li>
+<li><a href="https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on">Home Assistant Connect Aux-2</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp4">Qwen3.8-27B (MTP-mxfp4)</a> (Local Models)</li>
+<li><a href="https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/">ChatGPT Finances expands to Mac app</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/">Apple shuttering 28-year-old community forum</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/shadcn/improve">shadcn/improve</a> (Open Source Pick)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/">CEO Jensen Huang&#x27;s job is suddenly on the line at Nvidia</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/">T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/">iPhone Duo one week later: The future, or not for me?</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/">Binance warns iPhone crypto holders of security flaw researchers say remains unpatched</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/">Apple on Fatal Vehicle Crash Near Apple Park: &#x27;Our Hearts Are Broken&#x27;</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/">Apple Invites App Updated With Two New Features</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/">The unfolding Jensen Huang scandal: a timeline</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/">Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</a> (TechCrunch)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/">NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/">Nvidia is Preparing to Oust Nvidia CEO Jensen Huang</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/stable-audio-3-medium">mlx-community/stable-audio-3-medium</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/sam-audio-base-swift-fp16">mlx-community/sam-audio-base-swift-fp16</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/ZhuLinsen/daily_stock_analysis">ZhuLinsen/daily_stock_analysis</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/GoogleChrome/modern-web-guidance-src">GoogleChrome/modern-web-guidance-src</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-12/silicon-dispatch-2026-11-12.m4a" length="18817441" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1146</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-11: Apple&#x27;s &#x27;Harbor&#x27; AI Server, Oura&#x27;s $625M Acquisition, and New AirPods Firmware</title>
       <itunes:title>2026-11-11: Apple&#x27;s &#x27;Harbor&#x27; AI Server, Oura&#x27;s $625M Acquisition, and New AirPods Firmware</itunes:title>
