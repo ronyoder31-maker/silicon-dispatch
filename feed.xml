@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 02:01:37 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:02:51 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,105 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-13: Nvidia CEO Resigns, Google Gemini 4 Hydrogen Launches, and Apple HomeView Arrives</title>
+      <itunes:title>2026-11-13: Nvidia CEO Resigns, Google Gemini 4 Hydrogen Launches, and Apple HomeView Arrives</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>Today we cover the massive leadership shakeup at Nvidia, Google&#x27;s new AI search capabilities, and the first wave of Apple HomeView deliveries.</itunes:subtitle>
+      <itunes:summary>Today we cover the massive leadership shakeup at Nvidia, Google&#x27;s new AI search capabilities, and the first wave of Apple HomeView deliveries.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang Resigns as Nvidia CEO Following Scandal: https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions
+- Google Launches Gemini 4 Hydrogen: https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+- Cerulion: https://github.com/cerulion-inc/cerulion
+- Qwen3.8-27B-MTP-mxfp8: https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp8
+- Apple HomeView Launch Day: https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/
+- Siri AI Coming to Older Apple TV 4K: https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/
+- TensorFold: https://github.com/ashhart/TensorFold
+- Xbox announces Wolfenstein 3: https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3
+- Whoop launched a social network where every user has a ‘verified heartbeat’: https://www.theverge.com/gadgets/1032630/whoop-humans-social-network
+- In reversal, American Cancer Society urges prostate cancer tests for all men: https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/
+- FAA expands AI advice to manage air traffic congestion across entire US airspace: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
+- 9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown: https://9to5mac.com/2026/11/12/daily-november-12-2026/
+- Apple HomeView launches tomorrow, but its first security update is already here: https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/
+- Hands-On With the New Apple TV 4K and Siri AI: https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/
+- Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump: https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+- Muse can now place calls to US businesses — if you pay: https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/
+- Richard A. Posner has died: https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge
+- Edge0-145B: Frontier AI Capabilities on Your Own Computer: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+- Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim: https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/
+- So this will be true in couple of years?: https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/
+- mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit: https://huggingface.co/mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit
+- mlx-community/ZONOS3-Mini-swift-ptq: https://huggingface.co/mlx-community/ZONOS3-Mini-swift-ptq
+- openai/codex-security: https://github.com/openai/codex-security
+- nvm-sh/nvm: https://github.com/nvm-sh/nvm</itunes:summary>
+      <description>Today we cover the massive leadership shakeup at Nvidia, Google&#x27;s new AI search capabilities, and the first wave of Apple HomeView deliveries.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang Resigns as Nvidia CEO Following Scandal: https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions
+- Google Launches Gemini 4 Hydrogen: https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+- Cerulion: https://github.com/cerulion-inc/cerulion
+- Qwen3.8-27B-MTP-mxfp8: https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp8
+- Apple HomeView Launch Day: https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/
+- Siri AI Coming to Older Apple TV 4K: https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/
+- TensorFold: https://github.com/ashhart/TensorFold
+- Xbox announces Wolfenstein 3: https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3
+- Whoop launched a social network where every user has a ‘verified heartbeat’: https://www.theverge.com/gadgets/1032630/whoop-humans-social-network
+- In reversal, American Cancer Society urges prostate cancer tests for all men: https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/
+- FAA expands AI advice to manage air traffic congestion across entire US airspace: https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/
+- 9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown: https://9to5mac.com/2026/11/12/daily-november-12-2026/
+- Apple HomeView launches tomorrow, but its first security update is already here: https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/
+- Hands-On With the New Apple TV 4K and Siri AI: https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/
+- Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump: https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+- Muse can now place calls to US businesses — if you pay: https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/
+- Richard A. Posner has died: https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge
+- Edge0-145B: Frontier AI Capabilities on Your Own Computer: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+- Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim: https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/
+- So this will be true in couple of years?: https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/
+- mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit: https://huggingface.co/mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit
+- mlx-community/ZONOS3-Mini-swift-ptq: https://huggingface.co/mlx-community/ZONOS3-Mini-swift-ptq
+- openai/codex-security: https://github.com/openai/codex-security
+- nvm-sh/nvm: https://github.com/nvm-sh/nvm</description>
+      <content:encoded><![CDATA[<p>Today we cover the massive leadership shakeup at Nvidia, Google&#x27;s new AI search capabilities, and the first wave of Apple HomeView deliveries.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions">Jensen Huang Resigns as Nvidia CEO Following Scandal</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen">Google Launches Gemini 4 Hydrogen</a> (The Verge)</li>
+<li><a href="https://github.com/cerulion-inc/cerulion">Cerulion</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Qwen3.8-27B-MTP-mxfp8">Qwen3.8-27B-MTP-mxfp8</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/">Apple HomeView Launch Day</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/">Siri AI Coming to Older Apple TV 4K</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/ashhart/TensorFold">TensorFold</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3">Xbox announces Wolfenstein 3</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/gadgets/1032630/whoop-humans-social-network">Whoop launched a social network where every user has a ‘verified heartbeat’</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/">In reversal, American Cancer Society urges prostate cancer tests for all men</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic congestion across entire US airspace</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/12/daily-november-12-2026/">9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/12/apple-homeview-launches-tomorrow-but-its-first-security-update-is-already-here/">Apple HomeView launches tomorrow, but its first security update is already here</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/">Hands-On With the New Apple TV 4K and Siri AI</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/">Muse can now place calls to US businesses — if you pay</a> (TechCrunch)</li>
+<li><a href="https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge">Richard A. Posner has died</a> (Hacker News)</li>
+<li><a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">Edge0-145B: Frontier AI Capabilities on Your Own Computer</a> (Hacker News)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/">Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/">So this will be true in couple of years?</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit">mlx-community/NVIDIA-Nemotron-Labs-Dory1.0-4B-MLX-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/ZONOS3-Mini-swift-ptq">mlx-community/ZONOS3-Mini-swift-ptq</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/openai/codex-security">openai/codex-security</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/nvm-sh/nvm">nvm-sh/nvm</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-13/silicon-dispatch-2026-11-13.m4a" length="19004667" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-12: Nvidia Chaos, Gemini on CarPlay, and Local AI Power-Ups</title>
       <itunes:title>2026-11-12: Nvidia Chaos, Gemini on CarPlay, and Local AI Power-Ups</itunes:title>
