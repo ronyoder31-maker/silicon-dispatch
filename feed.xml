@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 02:02:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:01:18 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,96 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-14: Silicon Dispatch: FAA Ground Stop, OpenAI&#x27;s Wallet, and the New Apple TV 4K</title>
+      <itunes:title>2026-11-14: Silicon Dispatch: FAA Ground Stop, OpenAI&#x27;s Wallet, and the New Apple TV 4K</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>Today we cover the nationwide FAA ground stop, the launch of ChatGPT Wallet for AI agents, and the arrival of the A19-powered Apple TV 4K.</itunes:subtitle>
+      <itunes:summary>Today we cover the nationwide FAA ground stop, the launch of ChatGPT Wallet for AI agents, and the arrival of the A19-powered Apple TV 4K.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- FAA issues rare nationwide ground stop: https://www.theverge.com/news/1033489/faa-ground-stop
+- OpenAI launches ChatGPT Wallet for AI agents: https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+- Plannotator: https://github.com/backnotprop/plannotator
+- Inkling-2-Small: https://ollama.com/library/inkling-2-small
+- Apple TV 4K (A19) Launch Day: https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/
+- Perplexity Teammates on Mac: https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/
+- open-code-review: https://github.com/alibaba/open-code-review
+- Amazon has a plan to index the world’s online shopping data: https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+- FAA orders third nationwide ground stop in its history: https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/
+- Millions of Americans are not taking their GLP-1 drugs as prescribed: https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/
+- Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue: https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/
+- Apple details HomeView facial recognition, repair options, and more in new support guides: https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/
+- HomeView Tidbits: Mirror, Sleep Timer, and Other Details: https://www.macrumors.com/2026/11/13/homeview-tidbits-2/
+- Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update: https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/
+- Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price: https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
+- Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say: https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+- Stories coming out about Jensen: https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/
+- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return: https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/
+- mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit: https://huggingface.co/mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit
+- mlx-community/Inkling-2-Small-4bit: https://huggingface.co/mlx-community/Inkling-2-Small-4bit
+- we-promise/sure: https://github.com/we-promise/sure</itunes:summary>
+      <description>Today we cover the nationwide FAA ground stop, the launch of ChatGPT Wallet for AI agents, and the arrival of the A19-powered Apple TV 4K.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- FAA issues rare nationwide ground stop: https://www.theverge.com/news/1033489/faa-ground-stop
+- OpenAI launches ChatGPT Wallet for AI agents: https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+- Plannotator: https://github.com/backnotprop/plannotator
+- Inkling-2-Small: https://ollama.com/library/inkling-2-small
+- Apple TV 4K (A19) Launch Day: https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/
+- Perplexity Teammates on Mac: https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/
+- open-code-review: https://github.com/alibaba/open-code-review
+- Amazon has a plan to index the world’s online shopping data: https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search
+- FAA orders third nationwide ground stop in its history: https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/
+- Millions of Americans are not taking their GLP-1 drugs as prescribed: https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/
+- Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue: https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/
+- Apple details HomeView facial recognition, repair options, and more in new support guides: https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/
+- HomeView Tidbits: Mirror, Sleep Timer, and Other Details: https://www.macrumors.com/2026/11/13/homeview-tidbits-2/
+- Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update: https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/
+- Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price: https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/
+- Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say: https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+- Stories coming out about Jensen: https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/
+- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return: https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/
+- mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit: https://huggingface.co/mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit
+- mlx-community/Inkling-2-Small-4bit: https://huggingface.co/mlx-community/Inkling-2-Small-4bit
+- we-promise/sure: https://github.com/we-promise/sure</description>
+      <content:encoded><![CDATA[<p>Today we cover the nationwide FAA ground stop, the launch of ChatGPT Wallet for AI agents, and the arrival of the A19-powered Apple TV 4K.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/news/1033489/faa-ground-stop">FAA issues rare nationwide ground stop</a> (The Verge / Ars Technica)</li>
+<li><a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/">OpenAI launches ChatGPT Wallet for AI agents</a> (TechCrunch)</li>
+<li><a href="https://github.com/backnotprop/plannotator">Plannotator</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://ollama.com/library/inkling-2-small">Inkling-2-Small</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/">Apple TV 4K (A19) Launch Day</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/">Perplexity Teammates on Mac</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/alibaba/open-code-review">open-code-review</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search">Amazon has a plan to index the world’s online shopping data</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/">FAA orders third nationwide ground stop in its history</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/">Millions of Americans are not taking their GLP-1 drugs as prescribed</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/">Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/">Apple details HomeView facial recognition, repair options, and more in new support guides</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/13/homeview-tidbits-2/">HomeView Tidbits: Mirror, Sleep Timer, and Other Details</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/">Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/">Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/">Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</a> (TechCrunch)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/">Stories coming out about Jensen</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/">‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit">mlx-community/SenseNova-U1.5-8B-MoT-TailSteer-8step-v2-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/Inkling-2-Small-4bit">mlx-community/Inkling-2-Small-4bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/we-promise/sure">we-promise/sure</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-14/silicon-dispatch-2026-11-14.m4a" length="18686236" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1138</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-13: Nvidia CEO Resigns, Google Gemini 4 Hydrogen Launches, and Apple HomeView Arrives</title>
       <itunes:title>2026-11-13: Nvidia CEO Resigns, Google Gemini 4 Hydrogen Launches, and Apple HomeView Arrives</itunes:title>
