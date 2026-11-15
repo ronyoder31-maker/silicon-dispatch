@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 02:01:18 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:01:11 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,99 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-15: Starship&#x27;s Chopstick Catch &amp; The Nvidia Leadership Crisis</title>
+      <itunes:title>2026-11-15: Starship&#x27;s Chopstick Catch &amp; The Nvidia Leadership Crisis</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>SpaceX nails a historic Starship catch while the tech industry reels from the fallout of Jensen Huang&#x27;s departure from Nvidia.</itunes:subtitle>
+      <itunes:summary>SpaceX nails a historic Starship catch while the tech industry reels from the fallout of Jensen Huang&#x27;s departure from Nvidia.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- SpaceX successfully executes first &#x27;chopstick&#x27; catch of Starship: https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch
+- Tech executives petition for Jensen Huang&#x27;s reinstatement at Nvidia: https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+- Univer Office SDK: https://github.com/dream-num/univer
+- Qwen3.8-27B-TURBO-Fable-Cold-Fusion: https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF
+- Apple Silicon and MLX: The spiritual successor to the Xserve: https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/
+- caveman: https://github.com/JuliusBrussee/caveman
+- Magic: The Gathering is getting a Netflix animated series. For real this time.: https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series
+- James Webb telescope finds ice older than the star it orbits: https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/
+- Winemakers are learning that conservation can be good for business: https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/
+- Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings: https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/
+- Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy: https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/
+- Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More: https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/
+- Top Stories: Apple&#x27;s New Software Approach, iPhone Duo-Optimized Apps, and More: https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/
+- Where was Nvidia’s security team?: https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+- L3Harris statement on the Nov. 13 ground stop: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop
+- Nvidia deliberately kept GPU prices high through circular financing deals: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+- Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception: https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/
+- The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware: https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/
+- mlx-community/RelayVSR-bf16: https://huggingface.co/mlx-community/RelayVSR-bf16
+- mlx-community/d1a-e4b-it-8bit: https://huggingface.co/mlx-community/d1a-e4b-it-8bit
+- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
+- ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp</itunes:summary>
+      <description>SpaceX nails a historic Starship catch while the tech industry reels from the fallout of Jensen Huang&#x27;s departure from Nvidia.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- SpaceX successfully executes first &#x27;chopstick&#x27; catch of Starship: https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch
+- Tech executives petition for Jensen Huang&#x27;s reinstatement at Nvidia: https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
+- Univer Office SDK: https://github.com/dream-num/univer
+- Qwen3.8-27B-TURBO-Fable-Cold-Fusion: https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF
+- Apple Silicon and MLX: The spiritual successor to the Xserve: https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/
+- caveman: https://github.com/JuliusBrussee/caveman
+- Magic: The Gathering is getting a Netflix animated series. For real this time.: https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series
+- James Webb telescope finds ice older than the star it orbits: https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/
+- Winemakers are learning that conservation can be good for business: https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/
+- Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings: https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/
+- Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy: https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/
+- Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More: https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/
+- Top Stories: Apple&#x27;s New Software Approach, iPhone Duo-Optimized Apps, and More: https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/
+- Where was Nvidia’s security team?: https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/
+- L3Harris statement on the Nov. 13 ground stop: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop
+- Nvidia deliberately kept GPU prices high through circular financing deals: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html
+- Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception: https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/
+- The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware: https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/
+- mlx-community/RelayVSR-bf16: https://huggingface.co/mlx-community/RelayVSR-bf16
+- mlx-community/d1a-e4b-it-8bit: https://huggingface.co/mlx-community/d1a-e4b-it-8bit
+- tradermonty/claude-trading-skills: https://github.com/tradermonty/claude-trading-skills
+- ChromeDevTools/chrome-devtools-mcp: https://github.com/ChromeDevTools/chrome-devtools-mcp</description>
+      <content:encoded><![CDATA[<p>SpaceX nails a historic Starship catch while the tech industry reels from the fallout of Jensen Huang&#x27;s departure from Nvidia.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch">SpaceX successfully executes first &#x27;chopstick&#x27; catch of Starship</a> (The Verge)</li>
+<li><a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">Tech executives petition for Jensen Huang&#x27;s reinstatement at Nvidia</a> (TechCrunch)</li>
+<li><a href="https://github.com/dream-num/univer">Univer Office SDK</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF">Qwen3.8-27B-TURBO-Fable-Cold-Fusion</a> (Local Models)</li>
+<li><a href="https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/">Apple Silicon and MLX: The spiritual successor to the Xserve</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/JuliusBrussee/caveman">caveman</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series">Magic: The Gathering is getting a Netflix animated series. For real this time.</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/">James Webb telescope finds ice older than the star it orbits</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/">Winemakers are learning that conservation can be good for business</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/">Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/">Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/">Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/">Top Stories: Apple&#x27;s New Software Approach, iPhone Duo-Optimized Apps, and More</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/">Where was Nvidia’s security team?</a> (TechCrunch)</li>
+<li><a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">L3Harris statement on the Nov. 13 ground stop</a> (Hacker News)</li>
+<li><a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">Nvidia deliberately kept GPU prices high through circular financing deals</a> (Hacker News)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/">Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/">The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/RelayVSR-bf16">mlx-community/RelayVSR-bf16</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/d1a-e4b-it-8bit">mlx-community/d1a-e4b-it-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/tradermonty/claude-trading-skills">tradermonty/claude-trading-skills</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">ChromeDevTools/chrome-devtools-mcp</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-15/silicon-dispatch-2026-11-15.m4a" length="18901352" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1150</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-14: Silicon Dispatch: FAA Ground Stop, OpenAI&#x27;s Wallet, and the New Apple TV 4K</title>
       <itunes:title>2026-11-14: Silicon Dispatch: FAA Ground Stop, OpenAI&#x27;s Wallet, and the New Apple TV 4K</itunes:title>
