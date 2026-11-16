@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 02:01:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:01:28 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,96 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-16: Vulcan Launch Failure, Jensen Huang&#x27;s Nvidia Future, and Apple&#x27;s Smart Glasses Roadmap</title>
+      <itunes:title>2026-11-16: Vulcan Launch Failure, Jensen Huang&#x27;s Nvidia Future, and Apple&#x27;s Smart Glasses Roadmap</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>A look at today&#x27;s aerospace setback, the ongoing Nvidia leadership drama, and the latest leaks on Apple&#x27;s upcoming wearable strategy.</itunes:subtitle>
+      <itunes:summary>A look at today&#x27;s aerospace setback, the ongoing Nvidia leadership drama, and the latest leaks on Apple&#x27;s upcoming wearable strategy.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Vulcan rocket fails, destroying 40 Amazon Leo satellites: https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites
+- Jensen Huang might return to Nvidia as CEO: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/
+- Fanttik S1 Pro Electric Screwdriver: https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale
+- Qwen3.8-27B: https://huggingface.co/mlx-community/Qwen3.8-27B-8bit
+- Apple&#x27;s Smart Glasses Strategy: https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/
+- iPhone Duo 2 Face ID Progress: https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/
+- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
+- Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders: https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review
+- Vulcan rocket fails during launch, dealing major blow to SpaceX competitors: https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
+- How the world’s fires changed while humanity hit pause: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/
+- Apple’s Messages app keeps getting better; here are my favorite updates: https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/
+- Here’s one small change that could improve iPhone Duo’s unoptimized apps: https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/
+- Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows: https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/
+- Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market: https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+- Is bad news for Jensen Huang also bad news for the AI industry?: https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
+- Mini.nvim Is Now on Tangled: https://tangled.org/nvim-mini.org/mini.nvim
+- EUROPA, the EU&#x27;s open AI model, is aiming for nearly 1 trillion parameters: https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/
+- I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !: https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/
+- mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp: https://huggingface.co/mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp
+- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills</itunes:summary>
+      <description>A look at today&#x27;s aerospace setback, the ongoing Nvidia leadership drama, and the latest leaks on Apple&#x27;s upcoming wearable strategy.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Vulcan rocket fails, destroying 40 Amazon Leo satellites: https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites
+- Jensen Huang might return to Nvidia as CEO: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/
+- Fanttik S1 Pro Electric Screwdriver: https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale
+- Qwen3.8-27B: https://huggingface.co/mlx-community/Qwen3.8-27B-8bit
+- Apple&#x27;s Smart Glasses Strategy: https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/
+- iPhone Duo 2 Face ID Progress: https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/
+- NVIDIA/SkillEvaluator: https://github.com/NVIDIA/SkillEvaluator
+- Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders: https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review
+- Vulcan rocket fails during launch, dealing major blow to SpaceX competitors: https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/
+- How the world’s fires changed while humanity hit pause: https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/
+- Apple’s Messages app keeps getting better; here are my favorite updates: https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/
+- Here’s one small change that could improve iPhone Duo’s unoptimized apps: https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/
+- Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows: https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/
+- Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market: https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+- Is bad news for Jensen Huang also bad news for the AI industry?: https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
+- Mini.nvim Is Now on Tangled: https://tangled.org/nvim-mini.org/mini.nvim
+- EUROPA, the EU&#x27;s open AI model, is aiming for nearly 1 trillion parameters: https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/
+- I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !: https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/
+- mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp: https://huggingface.co/mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp
+- ag-ui-protocol/ag-ui: https://github.com/ag-ui-protocol/ag-ui
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills</description>
+      <content:encoded><![CDATA[<p>A look at today&#x27;s aerospace setback, the ongoing Nvidia leadership drama, and the latest leaks on Apple&#x27;s upcoming wearable strategy.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites">Vulcan rocket fails, destroying 40 Amazon Leo satellites</a> (The Verge)</li>
+<li><a href="https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/">Jensen Huang might return to Nvidia as CEO</a> (Hacker News)</li>
+<li><a href="https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale">Fanttik S1 Pro Electric Screwdriver</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Qwen3.8-27B-8bit">Qwen3.8-27B</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/">Apple&#x27;s Smart Glasses Strategy</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/">iPhone Duo 2 Face ID Progress</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/NVIDIA/SkillEvaluator">NVIDIA/SkillEvaluator</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review">Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/">Vulcan rocket fails during launch, dealing major blow to SpaceX competitors</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/">How the world’s fires changed while humanity hit pause</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/">Apple’s Messages app keeps getting better; here are my favorite updates</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/">Here’s one small change that could improve iPhone Duo’s unoptimized apps</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/">Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/">Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/">Is bad news for Jensen Huang also bad news for the AI industry?</a> (TechCrunch)</li>
+<li><a href="https://tangled.org/nvim-mini.org/mini.nvim">Mini.nvim Is Now on Tangled</a> (Hacker News)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/">EUROPA, the EU&#x27;s open AI model, is aiming for nearly 1 trillion parameters</a> (r/LocalLLaMA)</li>
+<li><a href="https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/">I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !</a> (r/LocalLLaMA)</li>
+<li><a href="https://huggingface.co/mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp">mlx-community/Groot-19B-A3B-261023-oQ6e-fp16-mtp</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui-protocol/ag-ui</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/google-labs-code/stitch-skills">google-labs-code/stitch-skills</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-16/silicon-dispatch-2026-11-16.m4a" length="18778775" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1143</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-15: Starship&#x27;s Chopstick Catch &amp; The Nvidia Leadership Crisis</title>
       <itunes:title>2026-11-15: Starship&#x27;s Chopstick Catch &amp; The Nvidia Leadership Crisis</itunes:title>
