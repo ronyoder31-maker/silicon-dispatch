@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 02:01:31 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:45:59 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,84 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-18: Nvidia&#x27;s Post-Huang Era, Apple HomeView Repairability, and the New &#x27;OS for Work&#x27;</title>
+      <itunes:title>2026-11-18: Nvidia&#x27;s Post-Huang Era, Apple HomeView Repairability, and the New &#x27;OS for Work&#x27;</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down the fallout at Nvidia, the difficult-to-repair HomeView hub, and Microsoft&#x27;s vision for Copilot as the new operating system.</itunes:subtitle>
+      <itunes:summary>We break down the fallout at Nvidia, the difficult-to-repair HomeView hub, and Microsoft&#x27;s vision for Copilot as the new operating system.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia Board Confirms No Return for Jensen Huang: https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo
+- Microsoft Ignite: Copilot as the &#x27;New OS for Work&#x27;: https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/
+- LoopForge: https://github.com/Tencent/LoopForge
+- Qwen3.8-27B (MACaQ Quant): https://huggingface.co/mlx-community/Qwen3.8-27B-MACaQ-W4A16-mlx
+- iFixit Teardown: Apple HomeView is a Repair Nightmare: https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub
+- Final Cut Pro Gains MotionVFX Integration: https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/
+- Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- Satya Nadella says he’s AGI-pilled now: https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now
+- Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond: https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon
+- San Diego dumps both Flock cameras and smart streetlights: https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/
+- Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18: https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/
+- iFixit tears down Apple HomeView, finds lots of glue and endless frustration: https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/
+- Aqara Debuts Six Matter Smart Lights That Work With Apple Home: https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/
+- Disney+ and Hulu Will Fully Merge Into One App in December: https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/
+- Nvidia promises that revenue will keep soaring — for now: https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/
+- Stripe backer Atomico calls for Europe to own its success stories: https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/
+- mlx-community/pplx-decider-v1.3-4bit: https://huggingface.co/mlx-community/pplx-decider-v1.3-4bit</itunes:summary>
+      <description>We break down the fallout at Nvidia, the difficult-to-repair HomeView hub, and Microsoft&#x27;s vision for Copilot as the new operating system.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Nvidia Board Confirms No Return for Jensen Huang: https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo
+- Microsoft Ignite: Copilot as the &#x27;New OS for Work&#x27;: https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/
+- LoopForge: https://github.com/Tencent/LoopForge
+- Qwen3.8-27B (MACaQ Quant): https://huggingface.co/mlx-community/Qwen3.8-27B-MACaQ-W4A16-mlx
+- iFixit Teardown: Apple HomeView is a Repair Nightmare: https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub
+- Final Cut Pro Gains MotionVFX Integration: https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/
+- Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- Satya Nadella says he’s AGI-pilled now: https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now
+- Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond: https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon
+- San Diego dumps both Flock cameras and smart streetlights: https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/
+- Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18: https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/
+- iFixit tears down Apple HomeView, finds lots of glue and endless frustration: https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/
+- Aqara Debuts Six Matter Smart Lights That Work With Apple Home: https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/
+- Disney+ and Hulu Will Fully Merge Into One App in December: https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/
+- Nvidia promises that revenue will keep soaring — for now: https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/
+- Stripe backer Atomico calls for Europe to own its success stories: https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/
+- mlx-community/pplx-decider-v1.3-4bit: https://huggingface.co/mlx-community/pplx-decider-v1.3-4bit</description>
+      <content:encoded><![CDATA[<p>We break down the fallout at Nvidia, the difficult-to-repair HomeView hub, and Microsoft&#x27;s vision for Copilot as the new operating system.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo">Nvidia Board Confirms No Return for Jensen Huang</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/">Microsoft Ignite: Copilot as the &#x27;New OS for Work&#x27;</a> (Ars Technica)</li>
+<li><a href="https://github.com/Tencent/LoopForge">LoopForge</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Qwen3.8-27B-MACaQ-W4A16-mlx">Qwen3.8-27B (MACaQ Quant)</a> (Local Models)</li>
+<li><a href="https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub">iFixit Teardown: Apple HomeView is a Repair Nightmare</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/">Final Cut Pro Gains MotionVFX Integration</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/elementalsouls/Claude-BugHunter">Claude-BugHunter</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now">Satya Nadella says he’s AGI-pilled now</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon">Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/">San Diego dumps both Flock cameras and smart streetlights</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/">Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/">iFixit tears down Apple HomeView, finds lots of glue and endless frustration</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/">Aqara Debuts Six Matter Smart Lights That Work With Apple Home</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/">Disney+ and Hulu Will Fully Merge Into One App in December</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/">Nvidia promises that revenue will keep soaring — for now</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/">Stripe backer Atomico calls for Europe to own its success stories</a> (TechCrunch)</li>
+<li><a href="https://huggingface.co/mlx-community/pplx-decider-v1.3-4bit">mlx-community/pplx-decider-v1.3-4bit</a> (Hugging Face MLX Community)</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-18/silicon-dispatch-2026-11-18.m4a" length="18287922" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1114</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-17: Silicon Dispatch: Apple Intelligence Expands in China, macOS 27.3 Security, and the AI Agent Lawsuit</title>
       <itunes:title>2026-11-17: Silicon Dispatch: Apple Intelligence Expands in China, macOS 27.3 Security, and the AI Agent Lawsuit</itunes:title>
