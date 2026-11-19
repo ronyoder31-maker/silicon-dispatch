@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 02:45:59 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:01:21 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,60 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-19: Gemini 4 Neon, Anthropic’s IPO, and the Future of AI Agents</title>
+      <itunes:title>2026-11-19: Gemini 4 Neon, Anthropic’s IPO, and the Future of AI Agents</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>Google debuts Gemini 4 Neon, Anthropic hits a $1.5T valuation, and we break down the latest agentic tools for your M5 Pro Mac.</itunes:subtitle>
+      <itunes:summary>Google debuts Gemini 4 Neon, Anthropic hits a $1.5T valuation, and we break down the latest agentic tools for your M5 Pro Mac.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Google launches Gemini 4 Neon: https://9to5google.com/2026/11/18/gemini-4-neon-announcement/
+- Anthropic IPO prices at $83/share: https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+- CLI-Anything: https://github.com/HKUDS/CLI-Anything
+- uv: https://github.com/astral-sh/uv
+- lfm3-omni: https://ollama.com/library/lfm3-omni
+- ripple-preview: https://ollama.com/library/ripple-preview
+- Safari Technology Preview 257: https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/
+- HomeView 27.2.1 Update: https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/
+- ECC (Agent Harness Performance Optimization): https://github.com/affaan-m/ECC</itunes:summary>
+      <description>Google debuts Gemini 4 Neon, Anthropic hits a $1.5T valuation, and we break down the latest agentic tools for your M5 Pro Mac.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Google launches Gemini 4 Neon: https://9to5google.com/2026/11/18/gemini-4-neon-announcement/
+- Anthropic IPO prices at $83/share: https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+- CLI-Anything: https://github.com/HKUDS/CLI-Anything
+- uv: https://github.com/astral-sh/uv
+- lfm3-omni: https://ollama.com/library/lfm3-omni
+- ripple-preview: https://ollama.com/library/ripple-preview
+- Safari Technology Preview 257: https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/
+- HomeView 27.2.1 Update: https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/
+- ECC (Agent Harness Performance Optimization): https://github.com/affaan-m/ECC</description>
+      <content:encoded><![CDATA[<p>Google debuts Gemini 4 Neon, Anthropic hits a $1.5T valuation, and we break down the latest agentic tools for your M5 Pro Mac.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://9to5google.com/2026/11/18/gemini-4-neon-announcement/">Google launches Gemini 4 Neon</a> (9to5Mac)</li>
+<li><a href="https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/">Anthropic IPO prices at $83/share</a> (TechCrunch)</li>
+<li><a href="https://github.com/HKUDS/CLI-Anything">CLI-Anything</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://github.com/astral-sh/uv">uv</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://ollama.com/library/lfm3-omni">lfm3-omni</a> (Local Models)</li>
+<li><a href="https://ollama.com/library/ripple-preview">ripple-preview</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/">Safari Technology Preview 257</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/">HomeView 27.2.1 Update</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/affaan-m/ECC">ECC (Agent Harness Performance Optimization)</a> (Open Source Pick)</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-19/silicon-dispatch-2026-11-19.m4a" length="18884651" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1152</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-18: Nvidia&#x27;s Post-Huang Era, Apple HomeView Repairability, and the New &#x27;OS for Work&#x27;</title>
       <itunes:title>2026-11-18: Nvidia&#x27;s Post-Huang Era, Apple HomeView Repairability, and the New &#x27;OS for Work&#x27;</itunes:title>
