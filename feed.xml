@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 02:01:21 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:01:25 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,93 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-20: Apple&#x27;s AI Agent Ambitions &amp; Anthropic&#x27;s IPO</title>
+      <itunes:title>2026-11-20: Apple&#x27;s AI Agent Ambitions &amp; Anthropic&#x27;s IPO</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>Apple pivots toward autonomous AI agents while Anthropic hits the public markets in a record-breaking IPO.</itunes:subtitle>
+      <itunes:summary>Apple pivots toward autonomous AI agents while Anthropic hits the public markets in a record-breaking IPO.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Apple Hiring for Autonomous AI Agent Development: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing
+- Anthropic Founders Cash Out $2B in IPO: https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
+- IconSwapper: https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/
+- DaisyRose-27B-4bit: https://huggingface.co/mlx-community/DaisyRose-27B-4bit
+- Gemini for Mac Gains App Control: https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/
+- macOS 27.3 Public Beta 2 Released: https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/
+- superpowers: https://github.com/obra/superpowers
+- A brief history of Nvidia’s recent stock fluctuations: https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings
+- Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up: https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/
+- MAHA PAC spent more on steak, luxury club than candidates, report shows: https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/
+- LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs: https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/
+- OpenAI begins testing dots with ChatGPT Plus users, expands Business access: https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/
+- Black Friday Deal: Apple TV Streaming Service for $6.99/Month: https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/
+- MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR: https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/
+- Anthropic rival says companies can (mostly) skip the pricey models: https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/
+- Gemini 4 Neon is the new #1 on the Models Engineering Index: https://git-aarvin.github.io/mei/
+- Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87
+- mlx-community/SenseNova-Loop-9B-mlx-affine8-g64: https://huggingface.co/mlx-community/SenseNova-Loop-9B-mlx-affine8-g64
+- mlx-community/clairic-4bit: https://huggingface.co/mlx-community/clairic-4bit
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind</itunes:summary>
+      <description>Apple pivots toward autonomous AI agents while Anthropic hits the public markets in a record-breaking IPO.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Apple Hiring for Autonomous AI Agent Development: https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing
+- Anthropic Founders Cash Out $2B in IPO: https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
+- IconSwapper: https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/
+- DaisyRose-27B-4bit: https://huggingface.co/mlx-community/DaisyRose-27B-4bit
+- Gemini for Mac Gains App Control: https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/
+- macOS 27.3 Public Beta 2 Released: https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/
+- superpowers: https://github.com/obra/superpowers
+- A brief history of Nvidia’s recent stock fluctuations: https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings
+- Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up: https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/
+- MAHA PAC spent more on steak, luxury club than candidates, report shows: https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/
+- LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs: https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/
+- OpenAI begins testing dots with ChatGPT Plus users, expands Business access: https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/
+- Black Friday Deal: Apple TV Streaming Service for $6.99/Month: https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/
+- MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR: https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/
+- Anthropic rival says companies can (mostly) skip the pricey models: https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/
+- Gemini 4 Neon is the new #1 on the Models Engineering Index: https://git-aarvin.github.io/mei/
+- Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers: https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87
+- mlx-community/SenseNova-Loop-9B-mlx-affine8-g64: https://huggingface.co/mlx-community/SenseNova-Loop-9B-mlx-affine8-g64
+- mlx-community/clairic-4bit: https://huggingface.co/mlx-community/clairic-4bit
+- jingyaogong/minimind: https://github.com/jingyaogong/minimind</description>
+      <content:encoded><![CDATA[<p>Apple pivots toward autonomous AI agents while Anthropic hits the public markets in a record-breaking IPO.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing">Apple Hiring for Autonomous AI Agent Development</a> (The Verge)</li>
+<li><a href="https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/">Anthropic Founders Cash Out $2B in IPO</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/">IconSwapper</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/DaisyRose-27B-4bit">DaisyRose-27B-4bit</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/19/google-gemini-mac-app-control/">Gemini for Mac Gains App Control</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/">macOS 27.3 Public Beta 2 Released</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/obra/superpowers">superpowers</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings">A brief history of Nvidia’s recent stock fluctuations</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/">Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/">MAHA PAC spent more on steak, luxury club than candidates, report shows</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/">LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/">OpenAI begins testing dots with ChatGPT Plus users, expands Business access</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/">Black Friday Deal: Apple TV Streaming Service for $6.99/Month</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/">MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/">Anthropic rival says companies can (mostly) skip the pricey models</a> (TechCrunch)</li>
+<li><a href="https://git-aarvin.github.io/mei/">Gemini 4 Neon is the new #1 on the Models Engineering Index</a> (Hacker News)</li>
+<li><a href="https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87">Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers</a> (Hacker News)</li>
+<li><a href="https://huggingface.co/mlx-community/SenseNova-Loop-9B-mlx-affine8-g64">mlx-community/SenseNova-Loop-9B-mlx-affine8-g64</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/clairic-4bit">mlx-community/clairic-4bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/jingyaogong/minimind">jingyaogong/minimind</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-20/silicon-dispatch-2026-11-20.m4a" length="18725548" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1141</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-19: Gemini 4 Neon, Anthropic’s IPO, and the Future of AI Agents</title>
       <itunes:title>2026-11-19: Gemini 4 Neon, Anthropic’s IPO, and the Future of AI Agents</itunes:title>
