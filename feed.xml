@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 02:03:54 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:00:58 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,90 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-22: Silicon Dispatch: Signal&#x27;s Privacy Pivot, DeepSeek-V4-Pro on MLX, and Black Friday Tech Deals</title>
+      <itunes:title>2026-11-22: Silicon Dispatch: Signal&#x27;s Privacy Pivot, DeepSeek-V4-Pro on MLX, and Black Friday Tech Deals</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down Signal&#x27;s new anti-surveillance measures, the arrival of DeepSeek-V4-Pro for your M5 Pro Mac, and the best of Black Friday 2026.</itunes:subtitle>
+      <itunes:summary>We break down Signal&#x27;s new anti-surveillance measures, the arrival of DeepSeek-V4-Pro for your M5 Pro Mac, and the best of Black Friday 2026.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Signal restricts mobile screenshots to combat AI surveillance: https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+- FBI and USDA report cyberattacks: https://www.theverge.com/tech/1039543/fbi-usda-hacked
+- AutoClip: https://github.com/zhouxiaoka/autoclip
+- DeepSeek-V4-Pro-Qwen3.5-9B: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-4bit
+- Siri AI Settlement Payouts: https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/
+- Black Friday Apple Deals: https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/
+- AFFiNE: https://github.com/toeverything/AFFiNE
+- Amazon is complaining about NYC Council on shipping labels, too: https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label
+- The UN fails to agree on rules regulating ‘killer robots’: https://www.theverge.com/tech/1039554/un-regulations-killer-robots
+- Review: Godzilla Minus Zero joins the list of truly stellar sequels: https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/
+- “Race realism” isn’t realistic—and it isn’t good science: https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/
+- iOS 27: My favorite new iPhone features (other than AI): https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/
+- Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame: https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/
+- Apple Store in UK Permanently Closing Today: https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/
+- A tale of two Nvidias: https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+- mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16
+- mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit
+- nginx/nginx: https://github.com/nginx/nginx
+- openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino</itunes:summary>
+      <description>We break down Signal&#x27;s new anti-surveillance measures, the arrival of DeepSeek-V4-Pro for your M5 Pro Mac, and the best of Black Friday 2026.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Signal restricts mobile screenshots to combat AI surveillance: https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+- FBI and USDA report cyberattacks: https://www.theverge.com/tech/1039543/fbi-usda-hacked
+- AutoClip: https://github.com/zhouxiaoka/autoclip
+- DeepSeek-V4-Pro-Qwen3.5-9B: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-4bit
+- Siri AI Settlement Payouts: https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/
+- Black Friday Apple Deals: https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/
+- AFFiNE: https://github.com/toeverything/AFFiNE
+- Amazon is complaining about NYC Council on shipping labels, too: https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label
+- The UN fails to agree on rules regulating ‘killer robots’: https://www.theverge.com/tech/1039554/un-regulations-killer-robots
+- Review: Godzilla Minus Zero joins the list of truly stellar sequels: https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/
+- “Race realism” isn’t realistic—and it isn’t good science: https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/
+- iOS 27: My favorite new iPhone features (other than AI): https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/
+- Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame: https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/
+- Apple Store in UK Permanently Closing Today: https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/
+- A tale of two Nvidias: https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+- mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16
+- mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit: https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit
+- nginx/nginx: https://github.com/nginx/nginx
+- openvinotoolkit/openvino: https://github.com/openvinotoolkit/openvino</description>
+      <content:encoded><![CDATA[<p>We break down Signal&#x27;s new anti-surveillance measures, the arrival of DeepSeek-V4-Pro for your M5 Pro Mac, and the best of Black Friday 2026.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/">Signal restricts mobile screenshots to combat AI surveillance</a> (TechCrunch)</li>
+<li><a href="https://www.theverge.com/tech/1039543/fbi-usda-hacked">FBI and USDA report cyberattacks</a> (The Verge)</li>
+<li><a href="https://github.com/zhouxiaoka/autoclip">AutoClip</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-4bit">DeepSeek-V4-Pro-Qwen3.5-9B</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/">Siri AI Settlement Payouts</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/">Black Friday Apple Deals</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/toeverything/AFFiNE">AFFiNE</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label">Amazon is complaining about NYC Council on shipping labels, too</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots">The UN fails to agree on rules regulating ‘killer robots’</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/">Review: Godzilla Minus Zero joins the list of truly stellar sequels</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/">“Race realism” isn’t realistic—and it isn’t good science</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/">iOS 27: My favorite new iPhone features (other than AI)</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/">Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/21/apple-store-in-uk-permanently-closing-today/">Apple Store in UK Permanently Closing Today</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/">A tale of two Nvidias</a> (TechCrunch)</li>
+<li><a href="https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16">mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-bf16</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit">mlx-community/DeepSeek-V4-Pro-Qwen3.5-9B-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/nginx/nginx">nginx/nginx</a> (GitHub Trending (Daily))</li>
+<li><a href="https://github.com/openvinotoolkit/openvino">openvinotoolkit/openvino</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-22/silicon-dispatch-2026-11-22.m4a" length="18715874" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1141</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-21: GTA VI Record-Breaking Launch &amp; The AI &#x27;Honey-Trap&#x27; Security Crisis</title>
       <itunes:title>2026-11-21: GTA VI Record-Breaking Launch &amp; The AI &#x27;Honey-Trap&#x27; Security Crisis</itunes:title>
