@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 02:00:58 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:02:06 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,57 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-23: Tech Outages, Apple&#x27;s &#x27;Duo&#x27; Interface, and Local AI Power</title>
+      <itunes:title>2026-11-23: Tech Outages, Apple&#x27;s &#x27;Duo&#x27; Interface, and Local AI Power</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We analyze the recent wave of major infrastructure outages and explore new interface leaks for the iPhone Duo alongside powerful local LLM updates for your M5 Pro.</itunes:subtitle>
+      <itunes:summary>We analyze the recent wave of major infrastructure outages and explore new interface leaks for the iPhone Duo alongside powerful local LLM updates for your M5 Pro.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- We haven’t seen the last of the major tech outages: https://www.theverge.com/tech/1039851/major-tech-outages
+- Delta flights in and out of Atlanta delayed due to system outage: https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage
+- Localcode: https://github.com/mjwsolo/localcode
+- Qwen3.8-27B: https://huggingface.co/mlx-community/Qwen3.8-27B-oQ8-mtp
+- LTX-2.5-22B-Distilled-DiT: https://huggingface.co/mlx-community/LTX-2.5-22B-Distilled-DiT-6bit
+- iPhone Duo &#x27;Complication Column&#x27; Leak: https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/
+- iOS 27 Wi-Fi Connectivity Fix: https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/
+- diagram-design: https://github.com/cathrynlavery/diagram-design</itunes:summary>
+      <description>We analyze the recent wave of major infrastructure outages and explore new interface leaks for the iPhone Duo alongside powerful local LLM updates for your M5 Pro.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- We haven’t seen the last of the major tech outages: https://www.theverge.com/tech/1039851/major-tech-outages
+- Delta flights in and out of Atlanta delayed due to system outage: https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage
+- Localcode: https://github.com/mjwsolo/localcode
+- Qwen3.8-27B: https://huggingface.co/mlx-community/Qwen3.8-27B-oQ8-mtp
+- LTX-2.5-22B-Distilled-DiT: https://huggingface.co/mlx-community/LTX-2.5-22B-Distilled-DiT-6bit
+- iPhone Duo &#x27;Complication Column&#x27; Leak: https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/
+- iOS 27 Wi-Fi Connectivity Fix: https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/
+- diagram-design: https://github.com/cathrynlavery/diagram-design</description>
+      <content:encoded><![CDATA[<p>We analyze the recent wave of major infrastructure outages and explore new interface leaks for the iPhone Duo alongside powerful local LLM updates for your M5 Pro.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/tech/1039851/major-tech-outages">We haven’t seen the last of the major tech outages</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage">Delta flights in and out of Atlanta delayed due to system outage</a> (The Verge)</li>
+<li><a href="https://github.com/mjwsolo/localcode">Localcode</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Qwen3.8-27B-oQ8-mtp">Qwen3.8-27B</a> (Local Models)</li>
+<li><a href="https://huggingface.co/mlx-community/LTX-2.5-22B-Distilled-DiT-6bit">LTX-2.5-22B-Distilled-DiT</a> (Local Models)</li>
+<li><a href="https://9to5mac.com/2026/11/22/apple-tested-a-complication-column-for-the-iphone-duo-lock-screen-per-leak/">iPhone Duo &#x27;Complication Column&#x27; Leak</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/">iOS 27 Wi-Fi Connectivity Fix</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/cathrynlavery/diagram-design">diagram-design</a> (Open Source Pick)</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-23/silicon-dispatch-2026-11-23.m4a" length="18536624" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-22: Silicon Dispatch: Signal&#x27;s Privacy Pivot, DeepSeek-V4-Pro on MLX, and Black Friday Tech Deals</title>
       <itunes:title>2026-11-22: Silicon Dispatch: Signal&#x27;s Privacy Pivot, DeepSeek-V4-Pro on MLX, and Black Friday Tech Deals</itunes:title>
