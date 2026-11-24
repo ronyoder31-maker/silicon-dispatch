@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 02:02:06 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:48:30 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,57 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-24: Jensen Huang Returns to Nvidia, Kagi Launches Email, and Ladybird Alpha</title>
+      <itunes:title>2026-11-24: Jensen Huang Returns to Nvidia, Kagi Launches Email, and Ladybird Alpha</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>A whirlwind 24 hours featuring Nvidia&#x27;s leadership shakeup, the debut of a new browser engine, and Kagi’s push into email.</itunes:subtitle>
+      <itunes:summary>A whirlwind 24 hours featuring Nvidia&#x27;s leadership shakeup, the debut of a new browser engine, and Kagi’s push into email.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang Reinstated as Nvidia CEO: https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated
+- Kagi Launches Email Service in Public Beta: https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative
+- Ladybird Browser Engine Alpha Released: https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
+- Claude Ship: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+- Tencent Hy4-flash: https://ollama.com/library/hy4
+- Apple Pay Gains Four New Features: https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/
+- Ted Lasso Renewed for Season 5: https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills</itunes:summary>
+      <description>A whirlwind 24 hours featuring Nvidia&#x27;s leadership shakeup, the debut of a new browser engine, and Kagi’s push into email.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang Reinstated as Nvidia CEO: https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated
+- Kagi Launches Email Service in Public Beta: https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative
+- Ladybird Browser Engine Alpha Released: https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing
+- Claude Ship: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+- Tencent Hy4-flash: https://ollama.com/library/hy4
+- Apple Pay Gains Four New Features: https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/
+- Ted Lasso Renewed for Season 5: https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/
+- google-labs-code/stitch-skills: https://github.com/google-labs-code/stitch-skills</description>
+      <content:encoded><![CDATA[<p>A whirlwind 24 hours featuring Nvidia&#x27;s leadership shakeup, the debut of a new browser engine, and Kagi’s push into email.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated">Jensen Huang Reinstated as Nvidia CEO</a> (The Verge / Ars Technica)</li>
+<li><a href="https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative">Kagi Launches Email Service in Public Beta</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing">Ladybird Browser Engine Alpha Released</a> (The Verge)</li>
+<li><a href="https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/">Claude Ship</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://ollama.com/library/hy4">Tencent Hy4-flash</a> (Local Models)</li>
+<li><a href="https://9to5mac.com/2026/11/23/apple-pay-is-getting-even-better-with-four-new-features/">Apple Pay Gains Four New Features</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal/">Ted Lasso Renewed for Season 5</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/google-labs-code/stitch-skills">google-labs-code/stitch-skills</a> (Open Source Pick)</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-24/silicon-dispatch-2026-11-24.m4a" length="19139691" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1165</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-23: Tech Outages, Apple&#x27;s &#x27;Duo&#x27; Interface, and Local AI Power</title>
       <itunes:title>2026-11-23: Tech Outages, Apple&#x27;s &#x27;Duo&#x27; Interface, and Local AI Power</itunes:title>
