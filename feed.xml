@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 02:48:30 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 02:01:00 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,96 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-25: Nvidia&#x27;s Leadership Turmoil, Walmart&#x27;s Apple Pay Flip-Flop, and AI Agent Benchmarks</title>
+      <itunes:title>2026-11-25: Nvidia&#x27;s Leadership Turmoil, Walmart&#x27;s Apple Pay Flip-Flop, and AI Agent Benchmarks</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down Jensen Huang&#x27;s return to Nvidia, the sudden removal of Apple Pay from Walmart, and the latest in local AI agent tools.</itunes:subtitle>
+      <itunes:summary>We break down Jensen Huang&#x27;s return to Nvidia, the sudden removal of Apple Pay from Walmart, and the latest in local AI agent tools.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang addresses Nvidia staff following reinstatement: https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology
+- Walmart removes Apple Pay support from app and website: https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/
+- Versine: https://versine.com
+- Holo4-27B: https://huggingface.co/mlx-community/Holo4-27B-4bit
+- Festivitas 2026 Holiday Update: https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- The Verge’s 2026 gift guide for dads: https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026
+- Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa: https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa
+- Half of NASA&#x27;s aging Mars fleet knocked offline by technical issues: https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/
+- Microsoft&#x27;s historic cloud outage exposed an engineering “fog of war”: https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/
+- 9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon: https://9to5mac.com/2026/11/24/daily-november-24-2026/
+- Apple Mail added four convenient new features in iOS 27: https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/
+- Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back: https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/
+- Tidal Bans AI Music, While Apple Music Sticks to Labels: https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/
+- Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion: https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+- Trump reportedly says pardoning Jensen Huang is ‘an option’: https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/
+- Get in, friends, the Atmosphere is happening: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9
+- Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available
+- mlx-community/Holo4-27B-8bit: https://huggingface.co/mlx-community/Holo4-27B-8bit
+- mlx-community/LongCat-Video-Avatar-1.6-bf16: https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-bf16
+- Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre</itunes:summary>
+      <description>We break down Jensen Huang&#x27;s return to Nvidia, the sudden removal of Apple Pay from Walmart, and the latest in local AI agent tools.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- Jensen Huang addresses Nvidia staff following reinstatement: https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology
+- Walmart removes Apple Pay support from app and website: https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/
+- Versine: https://versine.com
+- Holo4-27B: https://huggingface.co/mlx-community/Holo4-27B-4bit
+- Festivitas 2026 Holiday Update: https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/
+- mvanhorn/last30days-skill: https://github.com/mvanhorn/last30days-skill
+- The Verge’s 2026 gift guide for dads: https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026
+- Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa: https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa
+- Half of NASA&#x27;s aging Mars fleet knocked offline by technical issues: https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/
+- Microsoft&#x27;s historic cloud outage exposed an engineering “fog of war”: https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/
+- 9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon: https://9to5mac.com/2026/11/24/daily-november-24-2026/
+- Apple Mail added four convenient new features in iOS 27: https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/
+- Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back: https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/
+- Tidal Bans AI Music, While Apple Music Sticks to Labels: https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/
+- Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion: https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+- Trump reportedly says pardoning Jensen Huang is ‘an option’: https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/
+- Get in, friends, the Atmosphere is happening: https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9
+- Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available: https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available
+- mlx-community/Holo4-27B-8bit: https://huggingface.co/mlx-community/Holo4-27B-8bit
+- mlx-community/LongCat-Video-Avatar-1.6-bf16: https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-bf16
+- Tracer-Cloud/opensre: https://github.com/Tracer-Cloud/opensre</description>
+      <content:encoded><![CDATA[<p>We break down Jensen Huang&#x27;s return to Nvidia, the sudden removal of Apple Pay from Walmart, and the latest in local AI agent tools.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology">Jensen Huang addresses Nvidia staff following reinstatement</a> (The Verge)</li>
+<li><a href="https://9to5mac.com/2026/11/24/walmart-drops-apple-pay-support-from-its-app-and-website/">Walmart removes Apple Pay support from app and website</a> (9to5Mac)</li>
+<li><a href="https://versine.com">Versine</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Holo4-27B-4bit">Holo4-27B</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/">Festivitas 2026 Holiday Update</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/mvanhorn/last30days-skill">mvanhorn/last30days-skill</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026">The Verge’s 2026 gift guide for dads</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa">Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/">Half of NASA&#x27;s aging Mars fleet knocked offline by technical issues</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/">Microsoft&#x27;s historic cloud outage exposed an engineering “fog of war”</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/24/daily-november-24-2026/">9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon</a> (9to5Mac)</li>
+<li><a href="https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/">Apple Mail added four convenient new features in iOS 27</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/24/amazon-airpods-pro-3-deal-back/">Missed That $149 AirPods Pro 3 Deal? Amazon Just Brought It Back</a> (MacRumors)</li>
+<li><a href="https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/">Tidal Bans AI Music, While Apple Music Sticks to Labels</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/">Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/">Trump reportedly says pardoning Jensen Huang is ‘an option’</a> (TechCrunch)</li>
+<li><a href="https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9">Get in, friends, the Atmosphere is happening</a> (Hacker News)</li>
+<li><a href="https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available">Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available</a> (Hacker News)</li>
+<li><a href="https://huggingface.co/mlx-community/Holo4-27B-8bit">mlx-community/Holo4-27B-8bit</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-bf16">mlx-community/LongCat-Video-Avatar-1.6-bf16</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/Tracer-Cloud/opensre">Tracer-Cloud/opensre</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-25/silicon-dispatch-2026-11-25.m4a" length="18562416" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-24: Jensen Huang Returns to Nvidia, Kagi Launches Email, and Ladybird Alpha</title>
       <itunes:title>2026-11-24: Jensen Huang Returns to Nvidia, Kagi Launches Email, and Ladybird Alpha</itunes:title>
