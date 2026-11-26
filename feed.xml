@@ -9,7 +9,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/silicon-dispatch/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>&#xA9; 2026 Silicon Dispatch</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 02:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:45:39 +0100</lastBuildDate>
     <itunes:author>Claire &amp; Marcus</itunes:author>
     <itunes:summary>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</itunes:summary>
     <description>A sharp, practical daily tech briefing hosted by Claire and Marcus covering the biggest tech news, AI tools, local open-weight models for Apple Silicon (M5 Pro 64 GB), Mac news, open-source picks, and hands-on tips from the last 24 hours.</description>
@@ -26,6 +26,84 @@
       <title>Silicon Dispatch</title>
       <link>https://ronyoder31-maker.github.io/silicon-dispatch/</link>
     </image>
+    <item>
+      <title>2026-11-26: Silicon Dispatch: 1Password Security Breach &amp; Ladybird Browser Alpha</title>
+      <itunes:title>2026-11-26: Silicon Dispatch: 1Password Security Breach &amp; Ladybird Browser Alpha</itunes:title>
+      <itunes:author>Claire &amp; Marcus</itunes:author>
+      <itunes:subtitle>We break down the 1Password security incident, the debut of the Ladybird browser, and the latest in local AI for your M5 Pro Mac mini.</itunes:subtitle>
+      <itunes:summary>We break down the 1Password security incident, the debut of the Ladybird browser, and the latest in local AI for your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- 1Password confirms security incident involving internal systems: https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/
+- Ladybird browser&#x27;s first downloadable alpha arrives: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/
+- Wispr Flow: https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/
+- Holo4-35B-A3B: https://huggingface.co/mlx-community/Holo4-35B-A3B-4bit
+- Redesigned OLED MacBook Air expected in 2027-2028: https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/
+- Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too: https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras
+- Amazon loses its latest attempt to get out of handling more recall notices: https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc
+- European spacecraft finds chaotic scene after asteroid deflection experiment: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/
+- Google search alternative Kagi launches Gmail rival: https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/
+- 9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors: https://9to5mac.com/2026/11/25/daily-november-25-2026/
+- 1Password Security Breach: What Was Accessed and What Wasn&#x27;t: https://www.macrumors.com/2026/11/25/1password-security-breach/
+- S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks: https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+- FCC approves SpaceX plan to put AI data centers in space: https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/
+- mlx-community/FastFrames-L-bf16-mlx: https://huggingface.co/mlx-community/FastFrames-L-bf16-mlx
+- mlx-community/LongCat-Video-Avatar-1.6-q8: https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-q8
+- XiaoYouChR/Ghost-Downloader-3: https://github.com/XiaoYouChR/Ghost-Downloader-3</itunes:summary>
+      <description>We break down the 1Password security incident, the debut of the Ladybird browser, and the latest in local AI for your M5 Pro Mac mini.
+
+Segments: Top Tech News | AI Tools &amp; Apps | Local Models for Mac (M5 Pro 64 GB) | Apple Silicon &amp; Mac News | Open Source Pick | Try This Today
+
+Sources &amp; Links:
+- 1Password confirms security incident involving internal systems: https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/
+- Ladybird browser&#x27;s first downloadable alpha arrives: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/
+- Wispr Flow: https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/
+- Holo4-35B-A3B: https://huggingface.co/mlx-community/Holo4-35B-A3B-4bit
+- Redesigned OLED MacBook Air expected in 2027-2028: https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/
+- Claude-BugHunter: https://github.com/elementalsouls/Claude-BugHunter
+- Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too: https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras
+- Amazon loses its latest attempt to get out of handling more recall notices: https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc
+- European spacecraft finds chaotic scene after asteroid deflection experiment: https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/
+- Google search alternative Kagi launches Gmail rival: https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/
+- 9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors: https://9to5mac.com/2026/11/25/daily-november-25-2026/
+- 1Password Security Breach: What Was Accessed and What Wasn&#x27;t: https://www.macrumors.com/2026/11/25/1password-security-breach/
+- S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks: https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/
+- FCC approves SpaceX plan to put AI data centers in space: https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/
+- mlx-community/FastFrames-L-bf16-mlx: https://huggingface.co/mlx-community/FastFrames-L-bf16-mlx
+- mlx-community/LongCat-Video-Avatar-1.6-q8: https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-q8
+- XiaoYouChR/Ghost-Downloader-3: https://github.com/XiaoYouChR/Ghost-Downloader-3</description>
+      <content:encoded><![CDATA[<p>We break down the 1Password security incident, the debut of the Ladybird browser, and the latest in local AI for your M5 Pro Mac mini.</p>
+<p><strong>Segments:</strong> Top Tech News · AI Tools &amp; Apps · Local Models for Mac (M5 Pro 64 GB) · Apple Silicon &amp; Mac News · Open Source Pick · Try This Today</p>
+<h4>Sources &amp; Links</h4><ul>
+<li><a href="https://9to5mac.com/2026/11/25/1password-confirms-security-incident-heres-what-you-need-to-know/">1Password confirms security incident involving internal systems</a> (9to5Mac)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/">Ladybird browser&#x27;s first downloadable alpha arrives</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/">Wispr Flow</a> (AI Tools &amp; Apps)</li>
+<li><a href="https://huggingface.co/mlx-community/Holo4-35B-A3B-4bit">Holo4-35B-A3B</a> (Local Models)</li>
+<li><a href="https://www.macrumors.com/2026/11/25/oled-macbook-air-2027-2028/">Redesigned OLED MacBook Air expected in 2027-2028</a> (Apple Silicon &amp; Mac)</li>
+<li><a href="https://github.com/elementalsouls/Claude-BugHunter">Claude-BugHunter</a> (Open Source Pick)</li>
+<li><a href="https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras">Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too</a> (The Verge)</li>
+<li><a href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc">Amazon loses its latest attempt to get out of handling more recall notices</a> (The Verge)</li>
+<li><a href="https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/">European spacecraft finds chaotic scene after asteroid deflection experiment</a> (Ars Technica)</li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/">Google search alternative Kagi launches Gmail rival</a> (Ars Technica)</li>
+<li><a href="https://9to5mac.com/2026/11/25/daily-november-25-2026/">9to5Mac Daily: November 25, 2026 – CarPlay Ultra update, iPad rumors</a> (9to5Mac)</li>
+<li><a href="https://www.macrumors.com/2026/11/25/1password-security-breach/">1Password Security Breach: What Was Accessed and What Wasn&#x27;t</a> (MacRumors)</li>
+<li><a href="https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/">S&amp;P considers Nvidia credit downgrade over governance and ‘key man’ risks</a> (TechCrunch)</li>
+<li><a href="https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/">FCC approves SpaceX plan to put AI data centers in space</a> (TechCrunch)</li>
+<li><a href="https://huggingface.co/mlx-community/FastFrames-L-bf16-mlx">mlx-community/FastFrames-L-bf16-mlx</a> (Hugging Face MLX Community)</li>
+<li><a href="https://huggingface.co/mlx-community/LongCat-Video-Avatar-1.6-q8">mlx-community/LongCat-Video-Avatar-1.6-q8</a> (Hugging Face MLX Community)</li>
+<li><a href="https://github.com/XiaoYouChR/Ghost-Downloader-3">XiaoYouChR/Ghost-Downloader-3</a> (GitHub Trending (Daily))</li>
+</ul>]]></content:encoded>
+      <enclosure url="https://github.com/ronyoder31-maker/silicon-dispatch/releases/download/ep-2026-11-26/silicon-dispatch-2026-11-26.m4a" length="18546582" type="audio/x-m4a"/>
+      <guid isPermaLink="false">silicon-dispatch-ep-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 03:00:00 +0100</pubDate>
+      <itunes:duration>1128</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://ronyoder31-maker.github.io/silicon-dispatch/cover.jpg"/>
+    </item>
     <item>
       <title>2026-11-25: Nvidia&#x27;s Leadership Turmoil, Walmart&#x27;s Apple Pay Flip-Flop, and AI Agent Benchmarks</title>
       <itunes:title>2026-11-25: Nvidia&#x27;s Leadership Turmoil, Walmart&#x27;s Apple Pay Flip-Flop, and AI Agent Benchmarks</itunes:title>
